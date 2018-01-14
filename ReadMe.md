@@ -2,6 +2,8 @@
 
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ahmadawais/WPGulp.svg)](https://greenkeeper.io/)
+
 <table width='100%'>
     <tr>
         <td align='left' width='100%' colspan='2'>
